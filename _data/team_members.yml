@@ -30,6 +30,14 @@
   number_educ: 1
   education1: MTech, Metallurgical Engineering and Materials Science, IIT Bombay
 
+- name: Ashitha Pattabi
+  photo: ashitha.jpg
+  info: PhD, started Jan 2022
+  email: ashithap@iisc.ac.in
+  topic: Diffusion, coarsening behaviour and creep in Ni base superalloys
+  number_educ: 1
+  education1: M.S.(Res), IIT Delhi
+  
 - name: Dhanyashree MD
   photo: Dhanyashree.jpg
   info: PhD, started Aug 2023
@@ -62,14 +70,6 @@
   number_educ: 1
   education1: IDDD Computational Engineering, B. Tech Metallurgical and Materials Engineering, IIT Madras
 
-- name: Ashitha Pattabi
-  photo: ashitha.jpg
-  info: PhD, started Aug 2024
-  email: ashithap@iisc.ac.in
-  topic: Diffusion, coarsening behaviour and creep in Ni base superalloys
-  number_educ: 1
-  education1: M.S.(Res), IIT Delhi
-
 - name: <a href="https://www.linkedin.com/in/satvik-r-kashyap-9aa8311ba/">Satvik R Kashyap</a>
   photo: satvik.jpg
   info: Phd, started Aug 2024
@@ -86,10 +86,3 @@
   number_educ: 1
   education1: B.Tech Metallurgical Engineerig, JNTU Hyderabad
 
-- name: Subhodeep Jana
-  photo: Subhodeep.jpg
-  info: Senior Project Associate, started May 2024
-  email: subhodeepj@iisc.ac.in
-  topic: Directional solidification
-  number_educ: 0
-  education1: Phd, IIEST Shibpur 
