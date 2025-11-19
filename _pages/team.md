@@ -286,7 +286,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### PA/RA/Interns
+### PA/RA
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members_pa_ra_interns %}
