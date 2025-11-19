@@ -6,11 +6,11 @@
   number_educ: 1
   education1: PhD, Mechanical Engineering, IISc Bangalore
 
-- name: <a href="https://swapnilbhure.github.io">Swapnil Bhure</a>
+- name: <a href="https://in.linkedin.com/in/swapnil-bhure">Swapnil Bhure</a>
   photo: swapnil-bhure.jpg
   info: PhD, started Jan 2020
   email: swapnilbhure@iisc.ac.in
-  topic: Multi-scale modelling and experimental study of metal additive manufacturing
+  topic: Multi-scale modelling and experimental study of metal additive manufacturing process
   number_educ: 1
   education1: ME, Design Engineering, BITS Pilani
   
@@ -29,14 +29,6 @@
   topic: Directional solidification of monotectic alloy systems
   number_educ: 1
   education1: MTech, Metallurgical Engineering and Materials Science, IIT Bombay
-
-- name:  <a href="https://www.linkedin.com/in/anshika-kushwaha21/">Anshika Kushwaha</a> 
-  photo: anshikak.jpg
-  info: Project Associate, started July 2023
-  email: anshikak@iisc.ac.in
-  topic: Developing post processing tools in MicroSim software package
-  number_educ: 0
-  education1:  BTech, Chemical Engineering, BIET Jhansi
 
 - name: Dhanyashree MD
   photo: Dhanyashree.jpg
